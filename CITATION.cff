@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shaikh"
+  given-names: "Sharjeel Ahmed"
+
+title: "The number of PhD student in Germany Analysis using Python"
+version: 1.0
+date-released: 2024-05-12
+url: "https://gitup.uni-potsdam.de/shaikh1/rse_24_825121"
